@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api/
+Disallow: /setup
+Sitemap: https://portfolio.codexo.us/sitemap.xml
